@@ -6,11 +6,11 @@ The Reserve Tank system implemented in the Metroid Mod is alright, but I feel it
 
 So far, progression for the Reserve Tanks is as follows:
 
-- MK1: 5 Reserve Units. 100 HP each. -
-- MK2: 10 Reserve Units. 100 HP each. -
-- MK3: 15 Reserve Units. 100 HP each. -
-- MK4: 20 Reserve Units. 100 HP each. -
-- MK5: 5 Reserve Units. 2,000 HP each. -
+- MK1: 5 Reserve Units. 100 HP each.
+- MK2: 10 Reserve Units. 100 HP each.
+- MK3: 15 Reserve Units. 100 HP each.
+- MK4: 20 Reserve Units. 100 HP each.
+- MK5: 5 Reserve Units. 2,000 HP each.
 
 
 The reason the MK5 has so much HP per Tank is to integrate compatibility for mods that extend gameplay beyond the Moon Lord.
